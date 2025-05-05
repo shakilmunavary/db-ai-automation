@@ -1,1 +1,1 @@
-INSERT INTO employees (name) VALUES ('John Doe');
+INSERT INTO employees (name) VALUES ('John Doe' 
